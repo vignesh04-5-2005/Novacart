@@ -1,0 +1,73 @@
+const products = [
+  {
+    _id: "1",
+    name: "Premium Headphones",
+    description:
+      "Wireless noise-cancelling headphones with premium sound quality.",
+    category: "Electronics",
+    brand: "NovaAudio",
+    price: 2999,
+    rating: 4.8,
+    stock: 25,
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600",
+  },
+  {
+    _id: "2",
+    name: "Smart Watch",
+    description:
+      "Modern smartwatch with fitness tracking and heart rate monitor.",
+    category: "Wearables",
+    brand: "NovaTech",
+    price: 1999,
+    rating: 4.6,
+    stock: 18,
+    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600",
+  },
+  {
+    _id: "3",
+    name: "Running Shoes",
+    description:
+      "Lightweight running shoes designed for comfort and performance.",
+    category: "Fashion",
+    brand: "NovaFit",
+    price: 2499,
+    rating: 4.7,
+    stock: 30,
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+  },
+  {
+    _id: "4",
+    name: "Gaming Mouse",
+    description: "Ergonomic RGB gaming mouse with programmable buttons.",
+    category: "Electronics",
+    brand: "NovaGear",
+    price: 1499,
+    rating: 4.5,
+    stock: 40,
+    image: "https://images.unsplash.com/photo-1527814050087-3793815479db?w=600",
+  },
+  {
+    _id: "5",
+    name: "Backpack",
+    description: "Stylish waterproof backpack for work, college and travel.",
+    category: "Accessories",
+    brand: "NovaCarry",
+    price: 1799,
+    rating: 4.4,
+    stock: 22,
+    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600",
+  },
+  {
+    _id: "6",
+    name: "Bluetooth Speaker",
+    description: "Portable speaker with deep bass and long battery life.",
+    category: "Electronics",
+    brand: "NovaSound",
+    price: 2199,
+    rating: 4.7,
+    stock: 16,
+    image: "https://images.unsplash.com/photo-1589003077984-894e133dabab?w=600",
+  },
+];
+
+export default products;

@@ -1,0 +1,25 @@
+/*nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #24292f;
+  color: white;
+  padding: 15px 30px;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: 25px;
+}
+nav li {
+  cursor: pointer;
+}
+nav li:hover {
+  color: orange;
+}
+
+#foot {
+  background-color: rgb(13, 255, 0);
+  text-transform: capitalize;
+}
+*/
